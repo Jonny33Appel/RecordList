@@ -1,0 +1,16 @@
+{
+  "name": "BookListTraversy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d BookListTraversy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://Jonny33Appel.github.io/RecordList",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
